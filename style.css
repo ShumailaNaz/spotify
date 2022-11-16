@@ -1,0 +1,20 @@
+.container{
+width: 80%;
+margin: auto;
+}
+.header{
+    padding-left: 60px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    
+}
+i{
+    font-size: 12px;
+}
+#logo>a{
+    font-size: 22px;
+}
